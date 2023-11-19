@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on **PHP Native, Laravel, Codeigniter 3/4**
 - ☁️ I've keen interest in web development. So,I'm learning PHP Programming
-<table>
-    <tr>
+<table border="none">
+    <tr border="none">
         <td width="50%" align="center">
             <img width="100%" src="https://github-readme-stats.vercel.app/api?username=reeansa&bg_color=eefaff&text_color=005073&title_color=005073&icon_color=005073&ring_color=00BFFF&show_icons=true&count_private=true" />
             <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=reeansa&background=EEFAFF&ring=00BFFF&fire=00BFFF&currStreakLabel=005073&stroke=005073&sideNums=005073&sideLabels=005073&currStreakNum=00BFFF&dates=005073&excludeDaysLabel=005073" />
