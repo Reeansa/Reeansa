@@ -1,6 +1,6 @@
 <h1 align="center">Welcome Friends!👏</h1>
 
-- 🔭 I’m currently working on **PHP Native, Laravel, Codeigniter 3/4**
+- 🔭 I’m currently working on **Laravel, Codeigniter 3/4**
 - ☁️ I've keen interest in web development. So,I'm learning PHP Programming
 <table>
     <tr border="none">
